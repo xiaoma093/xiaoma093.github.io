@@ -1,8 +1,6 @@
 ## Welcome to Zhihao's Pages
 
-You can use the [editor on GitHub](https://github.com/xiaoma093/xiaoma093.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi, I am Zhihao Ma, a special research assistant fellow at School of Journalism and Communication, Nanjing University.
 
 ### Markdown
 
